@@ -1,4 +1,4 @@
-
+$species = "human"
 
 def mario
   status = 'Thank You Mario! But Our Princess Is In Another Castle!'
@@ -15,7 +15,5 @@ def link
   phrase = "It's Dangerous To Go Alone! Take This."
   puts phrase
 end
-
-all_phrases = mario, toadstool, link
 
 all_phrases
