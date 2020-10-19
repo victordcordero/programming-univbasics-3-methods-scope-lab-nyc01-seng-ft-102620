@@ -17,3 +17,5 @@ def link
 end
 
 all_phrases = mario, toadstool, link
+
+all_phrases
