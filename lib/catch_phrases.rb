@@ -16,6 +16,4 @@ def link
   puts phrase
 end
 
-mario
-toadstool
-link
+all_phrases = mario, toadstool, link
